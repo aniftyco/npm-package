@@ -1548,10 +1548,10 @@ escodegen@^1.14.1:
   optionalDependencies:
     source-map "~0.6.1"
 
-eslint-config-nifty@^3.1.3:
-  version "3.1.3"
-  resolved "https://registry.yarnpkg.com/eslint-config-nifty/-/eslint-config-nifty-3.1.3.tgz#b87b48b9e2b8060fe98871cceae05fc6ed65f792"
-  integrity sha512-dMZZ17/fklNFUcco5FI2+l6xc+XzqmHSP5YF4fcmiR3ZwfC7SxJoM+9v3CpReH2TObKICWHOU4ak+sVzvC4AVQ==
+eslint-config-nifty@^3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-nifty/-/eslint-config-nifty-3.2.1.tgz#e4f4d3206df4f28f9d884bd7510714250e9936ac"
+  integrity sha512-9bHZcAXq8kX3TDa9R3BnTRe5uC189X3rlTCNbhqIyQyASRJj95Sh1RuKXcUURGXgFnbnkLAFCpMAinT2x9E4iw==
   dependencies:
     "@typescript-eslint/eslint-plugin" "^4.0.1"
     "@typescript-eslint/parser" "^4.0.1"
